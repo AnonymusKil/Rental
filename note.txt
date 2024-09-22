@@ -1,0 +1,22 @@
+<i class="fa-solid fa-bars"></i>
+ .senior{
+    display: flex;
+    justify-content: space-between;
+ }
+ .ma{
+    display:flex ;
+    flex-wrap: wrap;
+    gap: 1.5rem;
+    align-items: center;
+    margin-left: 4em;
+ }
+   background-image: linear-gradient(
+      to bottom,
+      rgb(10, 10, 10, 0.5),
+      rgb(10, 10, 10, 0.75)
+    ),
+    url("./image/Netflix-Background.jpg");
+    
+<i class="fa-solid fa-location-dot"></i>
+<i class="fa-solid fa-phone"></i>
+<i class="fa-solid fa-print"></i>
